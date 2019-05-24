@@ -17,15 +17,14 @@ const csvToJson = (fileToReadPath,fileToCreatePath) => {
             headers = row;
             headersFlag = true;
         } else {
-            if(row[3] !== 'NULL'){
-                if(!Array.isArray(wyJson[row[3]])){
-                    wyJson[row[3]] = []; 
+            if(row[2] !== 'NULL'){
+                if(!Array.isArray(wyJson[row[2]])){
+                    wyJson[row[2]] = []; 
                 };
-                wyJson[row[3]].push({
+                wyJson[row[2]].push({
                     [headers[0]]: row[0],
                     [headers[1]]: row[1],
-                    [headers[2]]: row[2],
-                    [headers[3]]: row[3]
+                    [headers[2]]: row[2]
                 });
             }
         }
@@ -47,9 +46,8 @@ const writeJson = (filePath, json) => {
     );
 }
 
-//csvToJson('wyscout_teams.csv','wyscout.json');
-csvToJson('wyscout_germany.csv','wyscout.json');
-csvToJson('transfermarkt_teams.csv', 'transfermarkt.json');
+csvToJson('wy_competition.csv','wy_competition.json');
+csvToJson('tm_competition.csv', 'tm_competition.json');
 
 
 

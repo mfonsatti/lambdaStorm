@@ -1,15 +1,15 @@
 {
-  "name": "lambdastorm",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "faker": "^4.1.0",
-    "fast-levenshtein": "^2.0.6"
-  }
+    "name": "lambdastorm",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "faker": "^4.1.0",
+        "fast-levenshtein": "^2.0.6"
+    }
 }

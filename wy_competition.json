@@ -1,0 +1,17 @@
+{
+    "Germany": [
+        {
+            "id": "-316",
+            "name": "Sachsen-Anhalt Pokal",
+            "countryName": "Germany"
+        },
+        { "id": "-315", "name": "Thüringen Pokal", "countryName": "Germany" },
+        { "id": "-223", "name": "U-17 Bundesliga", "countryName": "Germany" },
+        { "id": "9", "name": "Bundesliga", "countryName": "Germany" },
+        { "id": "11", "name": "2. Bundesliga", "countryName": "Germany" },
+        { "id": "55", "name": "Regionalliga", "countryName": "Germany" },
+        { "id": "366", "name": "Oberliga", "countryName": "Germany" },
+        { "id": "622", "name": "3. Liga", "countryName": "Germany" },
+        { "id": "945", "name": "U19 Bundesliga", "countryName": "Germany" }
+    ]
+}

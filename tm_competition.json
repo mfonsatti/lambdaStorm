@@ -1,0 +1,164 @@
+{
+    "Germany": [
+        {
+            "id": "RLSW",
+            "name": "Regionalliga Südwest",
+            "countryName": "Germany"
+        },
+        { "id": "L3", "name": "3.Liga", "countryName": "Germany" },
+        { "id": "L2", "name": "2.Bundesliga", "countryName": "Germany" },
+        { "id": "L1", "name": "Bundesliga", "countryName": "Germany" },
+        { "id": "RLW3", "name": "Regionalliga West", "countryName": "Germany" },
+        {
+            "id": "RLN4",
+            "name": "Regionalliga Nordost",
+            "countryName": "Germany"
+        },
+        {
+            "id": "RLB3",
+            "name": "Regionalliga Bayern",
+            "countryName": "Germany"
+        },
+        {
+            "id": "OLW3",
+            "name": "Oberliga Westfalen",
+            "countryName": "Germany"
+        },
+        {
+            "id": "OBLB",
+            "name": "Oberliga Baden-Württemberg",
+            "countryName": "Germany"
+        },
+        { "id": "OLB2", "name": "Bayernliga Süd", "countryName": "Germany" },
+        { "id": "RLN3", "name": "Regionalliga Nord", "countryName": "Germany" },
+        {
+            "id": "OBLF",
+            "name": "NOFV-Oberliga Nord",
+            "countryName": "Germany"
+        },
+        {
+            "id": "OLRP",
+            "name": "Oberliga Rheinland-Pfalz/Saar",
+            "countryName": "Germany"
+        },
+        { "id": "VLBA", "name": "VL Nordbaden", "countryName": "Germany" },
+        { "id": "VLSB", "name": "VL Südbaden", "countryName": "Germany" },
+        { "id": "OBLK", "name": "Bremenliga", "countryName": "Germany" },
+        { "id": "LNWE", "name": "LL Weser-Ems", "countryName": "Germany" },
+        { "id": "LLM1", "name": "LL Mittelr. 1", "countryName": "Germany" },
+        { "id": "VLBE", "name": "Berlin-Liga", "countryName": "Germany" },
+        { "id": "OLB1", "name": "Bayernliga Nord", "countryName": "Germany" },
+        { "id": "OBLJ", "name": "Oberliga Hamburg", "countryName": "Germany" },
+        { "id": "LBSO", "name": "LL Bayern-S/O", "countryName": "Germany" },
+        { "id": "LBNO", "name": "LL Bayern-N/O", "countryName": "Germany" },
+        { "id": "LLSA", "name": "Saarlandliga", "countryName": "Germany" },
+        { "id": "OBLC", "name": "Hessenliga", "countryName": "Germany" },
+        { "id": "OBLG", "name": "NOFV-Oberliga Süd", "countryName": "Germany" },
+        {
+            "id": "OLNI",
+            "name": "Oberliga Niederrhein",
+            "countryName": "Germany"
+        },
+        { "id": "VLBW", "name": "VL Württemberg", "countryName": "Germany" },
+        { "id": "RHL", "name": "Rheinlandliga", "countryName": "Germany" },
+        { "id": "OBLN", "name": "OL Niedersachsen", "countryName": "Germany" },
+        { "id": "BRBL", "name": "Brandenburgliga", "countryName": "Germany" },
+        {
+            "id": "LNR1",
+            "name": "LL Niederrhein-Gr. 1",
+            "countryName": "Germany"
+        },
+        {
+            "id": "LLHM",
+            "name": "Landesliga Hammonia",
+            "countryName": "Germany"
+        },
+        { "id": "LNBR", "name": "LL Braunschweig", "countryName": "Germany" },
+        { "id": "LLHO", "name": "LL Holstein", "countryName": "Germany" },
+        { "id": "SLI", "name": "Sachsenliga", "countryName": "Germany" },
+        { "id": "VLW1", "name": "Westfalenliga 1", "countryName": "Germany" },
+        {
+            "id": "OBLL",
+            "name": "Oberliga Schleswig-Holstein",
+            "countryName": "Germany"
+        },
+        { "id": "LLL", "name": "LL Lüneburg", "countryName": "Germany" },
+        { "id": "LBNW", "name": "LL Bayern-N/W", "countryName": "Germany" },
+        { "id": "VLHM", "name": "VL Hessen-Mitte", "countryName": "Germany" },
+        { "id": "VLW2", "name": "Westfalenliga 2", "countryName": "Germany" },
+        { "id": "OLMR", "name": "Mittelrheinliga", "countryName": "Germany" },
+        {
+            "id": "LBSW",
+            "name": "Landesliga Bayern Südwest",
+            "countryName": "Germany"
+        },
+        { "id": "LBMI", "name": "LL Bayern-Mitte", "countryName": "Germany" },
+        { "id": "LLHA", "name": "Landesliga Hansa", "countryName": "Germany" },
+        { "id": "VLMV", "name": "Verbandsliga MV", "countryName": "Germany" },
+        {
+            "id": "LLSL",
+            "name": "Landesliga Schleswig",
+            "countryName": "Germany"
+        },
+        {
+            "id": "VLHS",
+            "name": "Verbandsliga Hes/S",
+            "countryName": "Germany"
+        },
+        { "id": "THLI", "name": "Thüringenliga", "countryName": "Germany" },
+        {
+            "id": "AJ2",
+            "name": "A-Junioren Bundesliga West",
+            "countryName": "Germany"
+        },
+        {
+            "id": "AJ3",
+            "name": "A-Junioren Bundesliga Süd/Südwest",
+            "countryName": "Germany"
+        },
+        { "id": "LLM2", "name": "LL Mittelr. 2", "countryName": "Germany" },
+        {
+            "id": "LNR2",
+            "name": "LL Niederrhein-Gr. 2",
+            "countryName": "Germany"
+        },
+        { "id": "LNHA", "name": "LL Hannover", "countryName": "Germany" },
+        { "id": "VLSA", "name": "VL Sachsen-Anhalt", "countryName": "Germany" },
+        { "id": "VLSW", "name": "VL Südwest", "countryName": "Germany" },
+        {
+            "id": "AJ1",
+            "name": "A-Junioren Bundesliga Nord/Nordost",
+            "countryName": "Germany"
+        },
+        {
+            "id": "UNLA",
+            "name": "UEFA Nations League A",
+            "countryName": "Germany"
+        },
+        { "id": "U219", "name": "", "countryName": "Germany" },
+        { "id": "LLHB", "name": "Landesliga Bremen", "countryName": "Germany" },
+        { "id": "VLHN", "name": "VL Hessen/N", "countryName": "Germany" },
+        { "id": "SU20", "name": "U20 Elite League", "countryName": "Germany" },
+        {
+            "id": "U19Q",
+            "name": "UEFA EURO U19 Championship Qualifiers",
+            "countryName": "Germany"
+        },
+        { "id": "AA17", "name": "", "countryName": "Germany" },
+        {
+            "id": "BJ2",
+            "name": "B-Junioren Bundesliga West",
+            "countryName": "Germany"
+        },
+        {
+            "id": "BJ3",
+            "name": "B-Junioren Bundesliga Süd/Südwest",
+            "countryName": "Germany"
+        },
+        {
+            "id": "BJ1",
+            "name": "B-Junioren Bundesliga Nord/Nordost",
+            "countryName": "Germany"
+        }
+    ]
+}

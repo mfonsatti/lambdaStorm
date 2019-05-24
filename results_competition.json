@@ -1,0 +1,803 @@
+[
+    {
+        "wyElement": {
+            "id": "-316",
+            "name": "Sachsen-Anhalt Pokal",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "OLB1",
+                    "name": "Bayernliga Nord",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 15
+            },
+            {
+                "tmElement": {
+                    "id": "VLSA",
+                    "name": "VL Sachsen-Anhalt",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "BRBL",
+                    "name": "Brandenburgliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 16
+            },
+            {
+                "tmElement": {
+                    "id": "SLI",
+                    "name": "Sachsenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 11
+            },
+            {
+                "tmElement": {
+                    "id": "LLSA",
+                    "name": "Saarlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 15
+            },
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 15
+            },
+            {
+                "tmElement": {
+                    "id": "LLHA",
+                    "name": "Landesliga Hansa",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 16
+            },
+            {
+                "tmElement": {
+                    "id": "RHL",
+                    "name": "Rheinlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 15
+            },
+            {
+                "tmElement": {
+                    "id": "THLI",
+                    "name": "Thüringenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 16
+            },
+            {
+                "tmElement": {
+                    "id": "OLB2",
+                    "name": "Bayernliga Süd",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 16
+            }
+        ]
+    },
+    {
+        "wyElement": {
+            "id": "-315",
+            "name": "Thüringen Pokal",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "OBLK",
+                    "name": "Bremenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 11
+            },
+            {
+                "tmElement": {
+                    "id": "L3",
+                    "name": "3.Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 12
+            },
+            {
+                "tmElement": {
+                    "id": "L2",
+                    "name": "2.Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 12
+            },
+            {
+                "tmElement": {
+                    "id": "L1",
+                    "name": "Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 12
+            },
+            {
+                "tmElement": {
+                    "id": "SLI",
+                    "name": "Sachsenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 12
+            },
+            {
+                "tmElement": {
+                    "id": "THLI",
+                    "name": "Thüringenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "LLSA",
+                    "name": "Saarlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 12
+            },
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 12
+            },
+            {
+                "tmElement": {
+                    "id": "VLBE",
+                    "name": "Berlin-Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 12
+            },
+            {
+                "tmElement": {
+                    "id": "RHL",
+                    "name": "Rheinlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 10
+            }
+        ]
+    },
+    {
+        "wyElement": {
+            "id": "-223",
+            "name": "U-17 Bundesliga",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "LLSA",
+                    "name": "Saarlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "SLI",
+                    "name": "Sachsenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 10
+            },
+            {
+                "tmElement": {
+                    "id": "L2",
+                    "name": "2.Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "L1",
+                    "name": "Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 10
+            },
+            {
+                "tmElement": {
+                    "id": "RHL",
+                    "name": "Rheinlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "THLI",
+                    "name": "Thüringenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "OBLK",
+                    "name": "Bremenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "VLBE",
+                    "name": "Berlin-Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 11
+            },
+            {
+                "tmElement": {
+                    "id": "LLL",
+                    "name": "LL Lüneburg",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 11
+            }
+        ]
+    },
+    {
+        "wyElement": {
+            "id": "9",
+            "name": "Bundesliga",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "THLI",
+                    "name": "Thüringenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "L3",
+                    "name": "3.Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "L2",
+                    "name": "2.Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 2
+            },
+            {
+                "tmElement": {
+                    "id": "L1",
+                    "name": "Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 0
+            },
+            {
+                "tmElement": {
+                    "id": "BRBL",
+                    "name": "Brandenburgliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "LLSA",
+                    "name": "Saarlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "OBLK",
+                    "name": "Bremenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 4
+            },
+            {
+                "tmElement": {
+                    "id": "VLBE",
+                    "name": "Berlin-Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "SLI",
+                    "name": "Sachsenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 6
+            }
+        ]
+    },
+    {
+        "wyElement": {
+            "id": "11",
+            "name": "2. Bundesliga",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "LLSA",
+                    "name": "Saarlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "THLI",
+                    "name": "Thüringenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "L2",
+                    "name": "2.Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 1
+            },
+            {
+                "tmElement": {
+                    "id": "L1",
+                    "name": "Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 3
+            },
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "RHL",
+                    "name": "Rheinlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "OBLK",
+                    "name": "Bremenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "SLI",
+                    "name": "Sachsenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "VLBE",
+                    "name": "Berlin-Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "LLL",
+                    "name": "LL Lüneburg",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            }
+        ]
+    },
+    {
+        "wyElement": {
+            "id": "55",
+            "name": "Regionalliga",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 6
+            },
+            {
+                "tmElement": {
+                    "id": "RHL",
+                    "name": "Rheinlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 6
+            },
+            {
+                "tmElement": {
+                    "id": "L2",
+                    "name": "2.Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "L1",
+                    "name": "Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "RLW3",
+                    "name": "Regionalliga West",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "RLN4",
+                    "name": "Regionalliga Nordost",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "RLB3",
+                    "name": "Regionalliga Bayern",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "OBLK",
+                    "name": "Bremenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "RLN3",
+                    "name": "Regionalliga Nord",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "VLBE",
+                    "name": "Berlin-Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            }
+        ]
+    },
+    {
+        "wyElement": {
+            "id": "366",
+            "name": "Oberliga",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "SLI",
+                    "name": "Sachsenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 6
+            },
+            {
+                "tmElement": {
+                    "id": "L3",
+                    "name": "3.Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "L2",
+                    "name": "2.Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "L1",
+                    "name": "Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "OBLK",
+                    "name": "Bremenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "VLBE",
+                    "name": "Berlin-Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 6
+            },
+            {
+                "tmElement": {
+                    "id": "OBLJ",
+                    "name": "Oberliga Hamburg",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "LLSA",
+                    "name": "Saarlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 5
+            },
+            {
+                "tmElement": {
+                    "id": "OLB2",
+                    "name": "Bayernliga Süd",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            }
+        ]
+    },
+    {
+        "wyElement": {
+            "id": "622",
+            "name": "3. Liga",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "OBLK",
+                    "name": "Bremenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "L3",
+                    "name": "3.Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 1
+            },
+            {
+                "tmElement": {
+                    "id": "L2",
+                    "name": "2.Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "L1",
+                    "name": "Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "U219",
+                    "name": "",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "SLI",
+                    "name": "Sachsenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "AA17",
+                    "name": "",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "VLBE",
+                    "name": "Berlin-Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 7
+            },
+            {
+                "tmElement": {
+                    "id": "LLL",
+                    "name": "LL Lüneburg",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            }
+        ]
+    },
+    {
+        "wyElement": {
+            "id": "945",
+            "name": "U19 Bundesliga",
+            "countryName": "Germany"
+        },
+        "matches": [
+            {
+                "tmElement": {
+                    "id": "LLSA",
+                    "name": "Saarlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "SLI",
+                    "name": "Sachsenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "L2",
+                    "name": "2.Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 4
+            },
+            {
+                "tmElement": {
+                    "id": "L1",
+                    "name": "Bundesliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 4
+            },
+            {
+                "tmElement": {
+                    "id": "OBLC",
+                    "name": "Hessenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "RHL",
+                    "name": "Rheinlandliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 9
+            },
+            {
+                "tmElement": {
+                    "id": "THLI",
+                    "name": "Thüringenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "OBLK",
+                    "name": "Bremenliga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 8
+            },
+            {
+                "tmElement": {
+                    "id": "VLBE",
+                    "name": "Berlin-Liga",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 10
+            },
+            {
+                "tmElement": {
+                    "id": "LLL",
+                    "name": "LL Lüneburg",
+                    "countryName": "Germany"
+                },
+                "levenshteinDist": 10
+            }
+        ]
+    }
+]

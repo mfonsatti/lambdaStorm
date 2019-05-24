@@ -1,0 +1,101 @@
+//////////////////////////////////
+{
+    "Germany": [
+        {
+            "id": "-10231",
+            "name": "Spvg Solingen-Wald 03",
+            "club": "Solingen",
+            "countryName": "Germany"
+        }
+    ]
+}
+
+//////////////////////////////////////////
+{
+    "Germany": [
+        {
+            "id": "1",
+            "name": "1.FC Saarbrücken",
+            "club": "1.FC Saarbrücken",
+            "countryName": "Germany"
+        },
+        {
+            "id": "2",
+            "name": "1.FC Kaiserslautern",
+            "club": "1.FC Kaiserslautern",
+            "countryName": "Germany"
+        },
+        {
+            "id": "3",
+            "name": "1. FC Köln",
+            "club": "1. FC Köln",
+            "countryName": "Germany"
+        },
+        {
+            "id": "4",
+            "name": "1.FC Nuremberg",
+            "club": "1.FC Nuremberg",
+            "countryName": "Germany"
+        },
+        {
+            "id": "8",
+            "name": "Alemannia Aachen",
+            "club": "Alemannia Aachen",
+            "countryName": "Germany"
+        },
+        {
+            "id": "10",
+            "name": "Arminia Bielefeld",
+            "club": "Arminia Bielefeld",
+            "countryName": "Germany"
+        },
+        {
+            "id": "15",
+            "name": "Bayer 04 Leverkusen",
+            "club": "Bayer 04 Leverkusen",
+            "countryName": "Germany"
+        },
+        {
+            "id": "16",
+            "name": "Borussia Dortmund",
+            "club": "Borussia Dortmund",
+            "countryName": "Germany"
+        },
+        {
+            "id": "17",
+            "name": "Borussia Dortmund II",
+            "club": "Borussia Dortmund II",
+            "countryName": "Germany"
+        },
+        {
+            "id": "18",
+            "name": "Borussia Mönchengladbach",
+            "club": "Borussia Mönchengladbach",
+            "countryName": "Germany"
+        },
+        {
+            "id": "21",
+            "name": "Chemnitzer FC",
+            "club": "Chemnitzer FC",
+            "countryName": "Germany"
+        },
+        {
+            "id": "23",
+            "name": "Eintracht Braunschweig",
+            "club": "Eintracht Braunschweig",
+            "countryName": "Germany"
+        },
+        {
+            "id": "24",
+            "name": "Eintracht Frankfurt",
+            "club": "Eintracht Frankfurt",
+            "countryName": "Germany"
+        },
+        {
+            "id": "22009",
+            "name": "Spvg. Solingen-Wald 03",
+            "club": "Spvg. Solingen-Wald 03",
+            "countryName": "Germany"
+        }
+    ]
+}

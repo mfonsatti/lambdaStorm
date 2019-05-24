@@ -2,39 +2,37 @@ const fs = require("fs");
 const levenshtein = require("fast-levenshtein");
 const { performance } = require("perf_hooks");
 
-const wyJson = JSON.parse(fs.readFileSync("wyscout.json", "utf8"));
-const tmJson = JSON.parse(fs.readFileSync("transfermarkt.json", "utf8"));
+const wyJson = JSON.parse(fs.readFileSync("wy_competition.json", "utf8"));
+const tmJson = JSON.parse(fs.readFileSync("tm_competition.json", "utf8"));
 let wyElCounter = 0;
 
 let t0 = performance.now();
 
 const wyJsonKeys = Object.keys(wyJson);
 
-let stream = fs.createWriteStream("results.json");
-let streamCSV = fs.createWriteStream("resultCSV.csv");
+let stream = fs.createWriteStream("results_competition.json");
+let streamCSV = fs.createWriteStream("resultCSV_competition.csv");
 stream.write("[");
-streamCSV.write("wyElementId;wyElementName;wyElementClub;bestId;bestName;bestLevenshteinDist;\n");
+streamCSV.write("wyElementId;wyElementName;bestId;bestName;bestLevenshteinDist;\n");
 
-function check(wyElement, tmElement, match, worst = null) {
-    if (wyElement.name === "Spvg Solingen-Wald 03") {
-        if (tmElement.name === "Spvg. Solingen-Wald 03") {
-            console.log(
-                wyElement.name,
-                tmElement.name,
-                match.levenshteinDist,
-                worst
-            );
-            return true;
-        }
-    }
-}
+// function check(wyElement, tmElement, match, worst = null) {
+//     if (wyElement.name === "Spvg Solingen-Wald 03") {
+//         if (tmElement.name === "Spvg. Solingen-Wald 03") {
+//             console.log(
+//                 wyElement.name,
+//                 tmElement.name,
+//                 match.levenshteinDist,
+//                 worst
+//             );
+//             return true;
+//         }
+//     }
+// }
 
 for (let i = 0; i < wyJsonKeys.length; i++) {
     let wyCountry = wyJsonKeys[i];
 
     let tmElToLoop = tmJson[wyCountry];
-
-    let rows = [];
 
     for (let j = 0; j < wyJson[wyCountry].length; j++) {
         let wyElement = wyJson[wyCountry][j];
@@ -66,22 +64,19 @@ for (let i = 0; i < wyJsonKeys.length; i++) {
                 };
                 for (let y = 0; y < length; y++) {
                     const key = wyElementKeys[y];
-                    if (key === "name" || key === "club") {
+                    if (key === "name") {
                         let levenshteinDist = levenshtein.get(
                             wyElement[key],
                             tmElement[key]
                         );
-                        match[key] = levenshteinDist;
+                        match.levenshteinDist = levenshteinDist;
                     }
                 }
-
-                match.levenshteinDist = Math.min(match.name, match.club);
 
                 if (match.levenshteinDist < best.levenshteinDist) {
                     best.levenshteinDist = match.levenshteinDist;
                     best.id = match.tmElement.id;
                     best.name = match.tmElement.name;
-                    best.club = match.tmElement.club;
                 }
 
                 if (matches.length < 10) {
@@ -104,7 +99,7 @@ for (let i = 0; i < wyJsonKeys.length; i++) {
                             ) {
                                 worst.index = z;
                                 worst.levenshteinDist = matches[z].levenshteinDist;
-                            }
+                            }   
                         }
                     }
                 }
@@ -118,7 +113,7 @@ for (let i = 0; i < wyJsonKeys.length; i++) {
             dataToAppend += JSON.stringify({ wyElement, matches });
 
             stream.write(dataToAppend);
-            streamCSV.write(`${wyElement.id};${wyElement.name};${wyElement.club};${best.id};${best.name};${best.levenshteinDist};\n`);
+            streamCSV.write(`${wyElement.id};${wyElement.name};${best.id};${best.name};${best.levenshteinDist};\n`);
         }
     }
 
